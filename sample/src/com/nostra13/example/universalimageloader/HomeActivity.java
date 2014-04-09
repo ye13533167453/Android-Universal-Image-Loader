@@ -30,7 +30,7 @@ import com.nostra13.example.universalimageloader.Constants.Extra;
 import com.nostra13.universalimageloader.utils.L;
 
 /**
- * @author Sergey Tarasevich (nostra13[at]gmail[dot]com)
+ * @author yulinye
  */
 public class HomeActivity extends BaseActivity {
 
